@@ -29,17 +29,18 @@
     "email-verification",
     "signup",
     "signin",
-    "login"
+    "login",
+    "devfazla"
   ],
-  "author": "Fazla Rabbi <frchowdhury480@gmail.com> (https://fazla.pro)",
+  "author": "Fazla Rabbi <hello@devfazla.com> (https://devfazla.com)",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fazla-cloud/Supabase-Auth.git"
+    "url": "https://github.com/devfazla/Supabase-Auth.git"
   },
-  "homepage": "https://github.com/fazla-cloud/Supabase-Auth#readme",
+  "homepage": "https://github.com/devfazla/Supabase-Auth#readme",
   "bugs": {
-    "url": "https://github.com/fazla-cloud/Supabase-Auth/issues"
+    "url": "https://github.com/devfazla/Supabase-Auth/issues"
   },
   "icon": "assets/images/Supabase-Auth.png",
   "type": "commonjs",
