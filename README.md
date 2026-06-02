@@ -20,8 +20,8 @@ A lightweight, production-ready **Node.js REST API server** that wraps **Supabas
 |---|---|
 | **Name** | *Fazla Rabbi* |
 | **Role** | Software Developer |
-| **Portfolio / Website** | *https://fazla.pro* |
-| **Contact** | [frchowdhury480@gmail.com](mailto:frchowdhury480@gmail.com) |
+| **Portfolio / Website** | *https://devfazla.com* |
+| **Contact** | [contact@devfazla.com](mailto:contact@devfazla.com) |
 
 <!-- | **Projects** | ** | -->
 
@@ -31,11 +31,11 @@ A lightweight, production-ready **Node.js REST API server** that wraps **Supabas
 <b>Socials:</b><br>
 
 <!-- Socials (icons only) — replace links with yours -->
-<a href="https://fazla.pro" title="Website"><img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" height="20" alt="Website" /></a>&nbsp;&nbsp;
-<a href="https://github.com/fazla-cloud" title="GitHub"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="20" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/fazla1/" title="LinkedIn"><img src="https://cdn.simpleicons.org/logmein/FFFFFF" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/InnocentP480" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/FFFFFF" height="20" alt="Facebook" /></a>&nbsp;&nbsp;
-<a href="https://x.com/fazla_fr" title="X (Twitter)"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="18" alt="X" /></a>&nbsp;&nbsp;
+<a href="https://devfazla.com" title="Website"><img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" height="20" alt="Website" /></a>&nbsp;&nbsp;
+<a href="https://github.com/devfazla" title="GitHub"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="20" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/devfazla/" title="LinkedIn"><img src="https://cdn.simpleicons.org/logmein/FFFFFF" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/devfazla" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/FFFFFF" height="20" alt="Facebook" /></a>&nbsp;&nbsp;
+<a href="https://x.com/devfazla" title="X (Twitter)"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="18" alt="X" /></a>&nbsp;&nbsp;
 
 </div>
 
