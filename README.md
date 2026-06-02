@@ -95,7 +95,7 @@ A lightweight, production-ready **Node.js REST API server** that wraps **Supabas
 1. **Clone or download this repository**
 
 ```bash
-git clone https://github.com/fazla-cloud/Supabase-Auth.git
+git clone https://github.com/devfazla/Supabase-Auth.git
 cd Supabase/Auth
 ```
 
